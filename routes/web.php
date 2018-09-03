@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('lanzamientos', 'LanzamientosController@getAll')->name('getAllLanzamientos');
+Route::get('artista/{id}', 'ArtistaController@detailArtist')->name('getArtista');
