@@ -8,7 +8,8 @@ Consumo de Api spotify utilizando Laravel 5.6
 **Requerimientos**
 
 php7.2,
-composer 
+composer,
+laravel 5.6 
 
 **Run**
 composer install
@@ -19,6 +20,6 @@ composer install
 php artisan serve
 
 
-**Listad de nuevos lanzamientos**
+**Listado de nuevos lanzamientos**
 
 [http://localhost:8000/lanzamientos](http://localhost:8000/lanzamientos)
