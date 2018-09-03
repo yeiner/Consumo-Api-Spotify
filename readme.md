@@ -5,14 +5,14 @@
 
 Consumo de Api spotify utilizando Laravel 5.6
 
-**Run**
-
 **Requerimientos**
 
-php7.2
+php7.2,
 composer 
 
+**Run**
 composer install
+
 
 **Run server**
 
